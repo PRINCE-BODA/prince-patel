@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DSA, Cloud, and Web-Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/prince-patel](https://github.com/harshzala1)
+- 👨‍💻 All of my projects are available at [https://github.com/prince-patel]([https://github.com/harshzala1](https://github.com/PRINCE-BODA/prince-patel))
 ## 🛠 Skills
 
 Here are some of the technologies and languages I'm proficient in:
