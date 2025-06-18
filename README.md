@@ -29,7 +29,7 @@ Here are some of the technologies and languages I'm proficient in:
 
 I'm always open to collaboration and eager to learn from the community. If any of my projects interest you or if you have suggestions for improvement, please don't hesitate to reach out.
 
-- 📫 How to reach me **harshzala2601@gmail.com**
+- 📫 How to reach me **princepatel557733@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
